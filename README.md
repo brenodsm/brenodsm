@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/brenodsm/brenodsm/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
   <img width="12" />
